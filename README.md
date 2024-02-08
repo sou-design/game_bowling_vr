@@ -17,6 +17,7 @@ Autres fonctionnalités :
 ## Visuels
 
 Voici un aperçu des éléments modélisés sur Blender :
+
 ![Render of the blender assets](readme_galery/blender_demo.png)
 
 Ainsi que plusieurs images du jeu :
